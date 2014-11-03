@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/GAFSInstance" xmlns:tns="http://www.example.org/GAFSInstance" elementFormDefault="qualified">
+
+    <element name="gafsinstance" type="tns:gafsintancetype"></element>
+    
+    <complexType name="gafsintancetype">
+    	<all>
+    		<element name="NewElement" type="string"></element>
+    	</all>
+    </complexType>
+</schema>
