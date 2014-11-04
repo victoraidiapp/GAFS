@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" xmlns:gafs="com.aidiapp.gafs"?>
+<services>
+    <item gafs:id="1" gafs:name="corte de pelo" gafs:duration="3600">
+        <attribute gafs:type="cost" gafs:value="30"/>
+    </item>
+     <item gafs:id="2" gafs:name="tinte" gafs:minDuration="1800" gafs:maxDuration="3600">
+        <attribute gafs:type="cost" gafs:value="30"/>
+    </item>
+</services>
