@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <feed>
-	<item gafs:id="1" gafs:name="Fisioterapeuta" gafs:calendar="http://..."
-	    gafs:services="1,2" gafs:readPolicy="1" gafs:writePolicy="1">
+	<item gafs:id="1" gafs:name="Fisioterapeuta" gafs:icalendar="http://..."
+	    gafs:services="1,2" gafs:readPolicy="1" gafs:writePolicy="2">
 	    
 	    
 	</item>

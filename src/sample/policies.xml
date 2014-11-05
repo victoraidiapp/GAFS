@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<policies>
+    <item gafs:id="1" gafs:name="userRead" gafs:protocol="http" gafs:certs="no">
+        
+    </item>
+    <item gafs:id="2" gafs:name="userWrite" gafs:protocol="https" gafs:certs="server">
+        <attribute gafs:name="user" gafs:type="string" gafs:crypt="no"/>
+        <attribute gafs:name="pass" gafs:type="string" gafs:crypt="md5"/>
+        <attribute gafs:name="token1" gafs:type="string" gafs:crypt="md5"/>
+    </item>
+    
+</policies>
